@@ -1,7 +1,6 @@
 BA in Computer Science, minor in Creative Writing
 
-  Rookie Game Designer, worked on Biology Game / Glycolysim (University of Alabama at Birmingham Capstone Presnetation Best in Show 2024)
-  Experienced in:{
+  Rookie Game Designer
     Languages:{
         Python // Proficient
         Java; // Proficient
